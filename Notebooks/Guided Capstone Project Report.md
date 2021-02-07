@@ -1,8 +1,8 @@
-## Big Mountain Resort Ticket Price Report
+# Big Mountain Resort Ticket Price Report
 
-# Emily Bocim
+### Emily Bocim
 
-# February 2021
+### February 2021
 
 # Introduction:
 	The recent addition of another chair lift increased operational costs by $1,540,000 for the season. This brought up the need to evaluate ticket prices and business operations to compensate for the additional cost and determine ways to increase revenue.
